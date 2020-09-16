@@ -2,7 +2,7 @@
 This is an *android application* to extract RSS feeds and display it in a application.
 I have used the Rss feed of a popular news and have uses native android classes to pull this information and display is as a list view in the application.
 ## Screenshot
-
+![Screenshot (1)](https://user-images.githubusercontent.com/25447240/93381157-dcf70c80-f87d-11ea-8c0c-3738c5172a01.png)
 
 ## Working
 Here is the [link](https://www.youtube.com/watch?time_continue=1&v=4XYVLKf2Ljs&feature=emb_title) that shows the implementation to application. The button is placed at the bottom of the screen which helps to read out the news.
